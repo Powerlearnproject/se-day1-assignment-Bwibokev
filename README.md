@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 is the process of designing, developing, testing, and maintaining software.
 Being that it involves creating softwares that can be used in customer facing, medical rsearch and institutional puposes
-I believe its a key component in economic boost, customer satisfaction and better equipoped learning foir students.
+I believe its a key component in economic boost, customer satisfaction and better equipoped learning for students.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 First computer program -the first computer program called the A-0 system programming
